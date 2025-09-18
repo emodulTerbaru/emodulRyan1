@@ -3,3 +3,4 @@ gTTS
 SpeechRecognition
 pandas
 pydub
+pyaudio
