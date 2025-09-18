@@ -1,6 +1,5 @@
-streamlit
-gtts
-speech_recognition
-io
-pandas
-pydub
+streamlit==1.38.0
+gTTS==2.5.1
+SpeechRecognition==3.10.4
+pandas==2.2.2
+pydub==0.25.1
