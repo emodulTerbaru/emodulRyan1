@@ -1,6 +1,7 @@
 streamlit
-gTTS
-SpeechRecognition
+gtts
+speechrecognition
 pandas
 pydub
 pyaudio
+
