@@ -724,7 +724,7 @@ def halaman5():
     if st.button("selanjutnya"):
         st.session_state.indeks2 +=1
     st.markdown(f'''
-    <div class="card" role="region" aria-label="Kalimat menarik" style="color:gray">
+    <div class="card" role="region" aria-label="Kalimat menarik" style="background-color:gray">
     <div class="lead">
       <span class="kicker">Eja Kalimat Ini</span>
       <!-- Ganti kalimat di bawah sesuai kebutuhan -->
@@ -958,5 +958,6 @@ if st.session_state.tampilkan:
     
 
     
+
 
 
