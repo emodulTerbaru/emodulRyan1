@@ -138,23 +138,23 @@ st.markdown("""
         justify-content: center;
         margin-bottom:20px;
     }
-    .st-key-tmbl2 .e1obcldf2{
+    .st-key-tmbl2 .e1haskxa2{
         background-color:green;
         color:white;
     }
-    .st-key-tmbl3 .e1obcldf2{
+    .st-key-tmbl3 .e1haskxa2{
         background-color:blue;
         color:white;
     }
-    .st-key-tmbl4 .e1obcldf2{
+    .st-key-tmbl4 .e1haskxa2{
         background-color:orange;
         color:black;
     }
-    .st-key-tmbl5 .e1obcldf2{
+    .st-key-tmbl5 .e1haskxa2{
         background-color:yellow;
         color:black;
     }
-    .st-key-tmbl10 .e1obcldf2{
+    .st-key-tmbl10 .e1haskxa2{
         background-color:grey;
         color:blue;
     }
@@ -958,3 +958,4 @@ if st.session_state.tampilkan:
     
 
     
+
