@@ -87,6 +87,7 @@ st.markdown("""
         background-repeat:no-repeat;
 		background-size:cover;
 		color:black;
+        border:black solid 2px;
 	}
     #judul{
         font-size: clamp(20px, 4vw, 30px);
@@ -966,6 +967,7 @@ if st.session_state.tampilkan:
     
 
     
+
 
 
 
