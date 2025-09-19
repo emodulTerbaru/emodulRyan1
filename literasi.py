@@ -80,7 +80,9 @@ st.markdown("""
         --muted: rgba(255,255,255,0.65);
       }
 	.e4man114{
- 		background-color:pink;
+ 		background-image:url("https://img.lovepik.com/background/20211021/medium/lovepik-gray-business-background-image_400170397.jpg");
+   		 background-repeat:no-repeat;
+		background-size:cover;
 	}
     .e3g0k5y1{
 		background-image:url("https://p4.wallpaperbetter.com/wallpaper/165/275/593/colorful-windows-10-gradient-minimalism-soft-gradient-hd-wallpaper-preview.jpg");
@@ -967,6 +969,7 @@ if st.session_state.tampilkan:
     
 
     
+
 
 
 
