@@ -1,7 +1,5 @@
 streamlit
 gtts
 speechrecognition
-pandas
 pydub
-pyaudio
-
+ffmpeg-python
