@@ -91,6 +91,9 @@ st.markdown("""
 		color:black;
         border:black solid 2px;
 	}
+     .e52wr8w2{
+	 	background-color:green;
+	 }
     #judul{
         font-size: clamp(20px, 4vw, 30px);
         line-height:1.05;
@@ -969,6 +972,7 @@ if st.session_state.tampilkan:
     
 
     
+
 
 
 
