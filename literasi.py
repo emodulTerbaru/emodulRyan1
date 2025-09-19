@@ -5,7 +5,7 @@ import io
 import pandas as pd
 from pydub import AudioSegment
 
-
+st.set_page_config(layout="wide")  # Atau "centered"
 kata = ['kepala','mata','tangan','senang','sedih','ayah','ibu','kakak','adik','rumah']
 kalimat = ['Aku punya tubuh yang hebat',
            'Mataku bisa melihat bunga warna-warni di taman',
@@ -960,6 +960,7 @@ if st.session_state.tampilkan:
     
 
     
+
 
 
 
