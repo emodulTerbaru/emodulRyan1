@@ -83,7 +83,7 @@ st.markdown("""
  		background-color:pink;
 	}
     .e3g0k5y1{
-		background-color:blue;
+		background-image:url("https://p4.wallpaperbetter.com/wallpaper/165/275/593/colorful-windows-10-gradient-minimalism-soft-gradient-hd-wallpaper-preview.jpg");
         color:white;
 	}
     #judul{
@@ -964,6 +964,7 @@ if st.session_state.tampilkan:
     
 
     
+
 
 
 
