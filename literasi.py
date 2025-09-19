@@ -79,7 +79,9 @@ st.markdown("""
         --glass: rgba(255,255,255,0.06);
         --muted: rgba(255,255,255,0.65);
       }
-
+	.e4man114{
+ 		background-color:pink;
+	}
     #judul{
         font-size: clamp(20px, 4vw, 30px);
         line-height:1.05;
@@ -958,6 +960,7 @@ if st.session_state.tampilkan:
     
 
     
+
 
 
 
