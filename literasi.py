@@ -732,7 +732,7 @@ def halaman5():
 
     </div>
 
-    <div class="panel" aria-hidden="true">
+    <div class="panel" aria-hidden="true" style="background-color:cyan">
       <div>
         <span class="emoji">🎯</span>
         <small>Kalimat singkat &amp; menarik</small>
@@ -958,6 +958,7 @@ if st.session_state.tampilkan:
     
 
     
+
 
 
 
